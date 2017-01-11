@@ -1,6 +1,6 @@
-# danaaWorldCreator
-Framework project to build a "Universe by your self" presentation website 
+danaaWorldCreator
 
+Framework project to build a "Universe by your self" presentation website
 
 Dans World Creator est un framework pour la création d’un site web présentant un Univers créé de toutes pièces.
 
